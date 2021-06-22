@@ -1,0 +1,17 @@
+Explanation of the concept of Git and Github 
+ 
+GitHub is not a repository for distributing software. Instead, it is a website that enables people to develop projects using git. 
+It can be used to organize work among multiple people, or to track changes in artwork and design files. 
+It can also be used to track progress over time. 
+GitHub Flow is a lightweight branch-based workflow that supports teams and projects that are regularly deployed. 
+This guide explains how and why the GitHub process works. 
+Create a branch When you are working on a project, there will be a lot of different features or ideas in progress at any given time, 
+some of which are ready and some are not. Branches exist to help you manage this workflow. 
+When you create a branch in a project, you are creating an environment where you can test new ideas. 
+Changes you make to the branch will not affect the main branch, so you can experiment and commit the changes, 
+knowing that your branch will not be merged until it is ready for the people you work with to review. 
+Expert advice Branching is a core concept in Git, and the entire GitHub process builds on it. 
+There is only one rule: any item in the master branch can always be implemented.
+Therefore, when working on functions or arrays, it is very important to create new branches outside of the main branch. 
+The name of your branch should be descriptive (for example, refactorauthentication, usercontentcachekey, makeretinaavatars) 
+so that others can see what is being processed.
