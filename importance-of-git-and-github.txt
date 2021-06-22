@@ -1,0 +1,13 @@
+Explanation of the importance of Git and Github
+
+Git is a version control system that helps keep track of changes in a file or collection of files and it is important because Git lets you decide when to save a project, and it also provides annotations when doing so.
+
+We can make or create versions of a project by making it a repository. A repo is a folder with Git tracking turned on, which may contain files and subfolders through a series of intentional snapshots called commits. One thing to keep in mind is that Git is most often used “locally,” which just means on your computer. That's in contrast to GitHub, which is a website that hosts Git repositories.
+
+Git is an open-source project management system that enables developers to collaborate on various open-source projects. It's also very widely used by other developers.GitHub is a great place to find, share, and contribute to those projects.
+
+Being an active user of GitHub and Git makes it easier for people to see how you're good at programming and writing technical documentation.
+
+GitHub is a cloud-based version control system that lets developers manage their GitHub repository. It’s similar to Git in that it lets you organize and track your code repository.
+
+Git is an open-source project management system that lets you keep track of your code repository. GitHub is a cloud-hosted service that enables developers to manage their projects and apps.
